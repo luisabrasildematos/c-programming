@@ -19,6 +19,7 @@ Future months will be added as my learning journey continues (e.g., april2025/, 
 
 
 About the Code
+
 My own programs in this repository may not be highly elaborate or optimized, but they represent my first appearance as a programmer - something that brings me a lot of joy!
 Enjoy exploring the code, and perhaps try it yourself ;)
 
