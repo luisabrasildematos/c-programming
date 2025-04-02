@@ -1,5 +1,5 @@
 
-//find out lenght of string
+//find out length of string
 
 #include <stdio.h>
 #include <string.h>
@@ -14,6 +14,5 @@ int length = strlen(oxygen);
 printf("Length of string: %d\n", length);
 
 return 0;
-
 }
 
